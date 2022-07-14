@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\bin\Debug\net6.0\Project001_Hello Console.exe
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\bin\Debug\net6.0\Project001_Hello Console.deps.json
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\bin\Debug\net6.0\Project001_Hello Console.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\bin\Debug\net6.0\Project001_Hello Console.dll
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\bin\Debug\net6.0\Project001_Hello Console.pdb
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.dll
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\refint\Project001_Hello Console.dll
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.pdb
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\Project001_Hello Console.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C sharp first lecture repo\Project001_Hello Console\obj\Debug\net6.0\ref\Project001_Hello Console.dll
