@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\C sharp first lecture repo\\Project001_Hello Console\\Project001_Hello Console.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\C sharp lectures repo\\Project001_Hello Console\\Project001_Hello Console.csproj",
       "projectName": "Project001_Hello Console",
-      "projectPath": "C:\\Users\\Пользователь\\Desktop\\C sharp first lecture repo\\Project001_Hello Console\\Project001_Hello Console.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\C sharp lectures repo\\Project001_Hello Console\\Project001_Hello Console.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Desktop\\C sharp first lecture repo\\Project001_Hello Console\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\C sharp lectures repo\\Project001_Hello Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"

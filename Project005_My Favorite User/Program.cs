@@ -1,7 +1,9 @@
-﻿Console.Write("Введите имя пользователя: ");
-string username = Console.ReadLine();
+﻿// нужно поприветствовать одного из наиболее лояльных к сервису пользователей
 
-if (username.ToLower() == "владимир ильич")
+Console.Write("Введите имя пользователя: ");
+string? username = Console.ReadLine();
+
+if (username?.ToLower() == "владимир ильич")
 {
     Console.WriteLine("Здравия желаю, Владимир Ильич!");
 }
